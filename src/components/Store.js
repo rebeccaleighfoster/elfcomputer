@@ -1,6 +1,6 @@
 import React from "react";
-import Items from "../Items";
-import Cart from "../Cart";
+import Items from "./Items";
+import Cart from "./Cart";
 
 const FEATURES = {
   Processor: [

@@ -1,5 +1,5 @@
 import React from "react";
-import SelectionSummary from "../SelectionSummary";
+import SelectionSummary from "./SelectionSummary";
 
 const USCurrencyFormat = new Intl.NumberFormat('en-US', {
   style: 'currency',
